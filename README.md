@@ -1,5 +1,9 @@
 # Uncertainpy
 
+Note this is only old version of https://github.com/nicopotyka/Uncertainpy (which is more robust to my implementation).
+
+---
+
 Uncertainpy is a Python library for computational argumentation. It currently mainly supports
 - **Gradual (Quantitative) Argumentation** [(src/uncertainpy/gradual)](src/uncertainpy/gradual)
   
